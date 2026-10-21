@@ -40,4 +40,9 @@ h2, h3 {
 nav a{
     color: #EAF0F7;
 }
+li+li {
+    border: 1px solid #5ADB8C;
+}
+
+
  /* descendant  */
