@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    color: #5ADB8C;
+    color: -#5ADB8C;
     font-size: 40px;
 }
 
@@ -80,7 +80,7 @@ nav a:hover{
 
 .join:focus{outline: 3px solid purple;}
 
-/* .results li:first-child {
+.results li:first-child {
     background-color: rgb(58, 42, 69);
 }
 
@@ -93,7 +93,7 @@ nav a:hover{
 }
 .results li:nth-child(odd) {
     color: rgb(171, 116, 15);
-} */
+}
 
 .results li:nth-child(2n+1) {
     color: rgb(90, 7, 255);
